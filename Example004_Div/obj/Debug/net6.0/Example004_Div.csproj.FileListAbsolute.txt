@@ -1,0 +1,15 @@
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example004_Div/bin/Debug/net6.0/Example004_Div
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example004_Div/bin/Debug/net6.0/Example004_Div.deps.json
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example004_Div/bin/Debug/net6.0/Example004_Div.runtimeconfig.json
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example004_Div/bin/Debug/net6.0/Example004_Div.dll
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example004_Div/bin/Debug/net6.0/Example004_Div.pdb
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example004_Div/obj/Debug/net6.0/Example004_Div.csproj.AssemblyReference.cache
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example004_Div/obj/Debug/net6.0/Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example004_Div/obj/Debug/net6.0/Example004_Div.AssemblyInfoInputs.cache
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example004_Div/obj/Debug/net6.0/Example004_Div.AssemblyInfo.cs
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example004_Div/obj/Debug/net6.0/Example004_Div.csproj.CoreCompileInputs.cache
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example004_Div/obj/Debug/net6.0/Example004_Div.dll
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example004_Div/obj/Debug/net6.0/refint/Example004_Div.dll
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example004_Div/obj/Debug/net6.0/Example004_Div.pdb
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example004_Div/obj/Debug/net6.0/Example004_Div.genruntimeconfig.cache
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example004_Div/obj/Debug/net6.0/ref/Example004_Div.dll
