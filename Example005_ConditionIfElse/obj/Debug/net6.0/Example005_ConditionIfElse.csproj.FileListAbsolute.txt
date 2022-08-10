@@ -1,0 +1,15 @@
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.deps.json
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.runtimeconfig.json
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.dll
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.pdb
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.csproj.AssemblyReference.cache
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.AssemblyInfoInputs.cache
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.AssemblyInfo.cs
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.dll
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example005_ConditionIfElse/obj/Debug/net6.0/refint/Example005_ConditionIfElse.dll
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.pdb
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.genruntimeconfig.cache
+/Users/Irina/Desktop/Digital master Geekbrains/1 четверть/Знакомство с языками программирования/ЯП_Урок 1/Example005_ConditionIfElse/obj/Debug/net6.0/ref/Example005_ConditionIfElse.dll
